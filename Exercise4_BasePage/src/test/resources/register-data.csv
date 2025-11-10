@@ -1,0 +1,5 @@
+firstName,lastName,email,gender,phone,subject,hobbies,picture,address,state,city,expectedResult
+John,Doe,john.doe@example.com,Male,0123456789,Maths,Reading,,123 Street,NCR,Delhi,success
+,,invalidemail@example.com,Female,0987654321,English,Sports,,Some Address,Haryana,Karnal,error
+Alice,Smith,alice.smith@example.com,Male,1234567890,Physics,Music,,Another Address,Uttar Pradesh,Lucknow,success
+
